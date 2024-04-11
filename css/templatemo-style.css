@@ -173,8 +173,8 @@ h1,h2,h3,h4,h5
 	{
         background: url('../images/home-bg.jpg');
         background-size:cover;
-        background-repeat:round;
-        padding-top: 480px;
+        background-repeat:no-repeat;
+        padding-top: 120px;
         padding-bottom: 140px;
         text-align:center;
 	}
