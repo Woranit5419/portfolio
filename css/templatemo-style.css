@@ -172,8 +172,8 @@ h1,h2,h3,h4,h5
 #home
 	{
         background: url('../images/home-bg.jpg');
-        background-size:780px;
-        background-repeat:repeat;
+        background-size:cover;
+        background-repeat:no-repeat;
         padding-top: 120px;
         padding-bottom: 140px;
         text-align:center;
